@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, Korea"
-  email            : "hee.404.jerry@gmail.com"
+  #email            : "hee.404.jerry@gmail.com"
   links:
     - label: "hee.404.jerry@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
