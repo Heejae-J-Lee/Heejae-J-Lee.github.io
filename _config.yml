@@ -110,9 +110,9 @@ author:
   location         : "Seoul, Korea"
   email            : "hee.404.jerry@gmail.com"
   links:
-    - label: "Email"
+    - label: "hee.404.jerry@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:hee.404.jerry@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
